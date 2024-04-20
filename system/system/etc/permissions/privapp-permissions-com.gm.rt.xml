@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="com.gm.rt">
+        <permission name="android.permission.DELETE_PACKAGES"/>
+        <permission name="android.permission.DEVICE_POWER"/>
+        <permission name="android.permission.INSTALL_PACKAGES"/>
+        <permission name="android.permission.WRITE_SETTINGS"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+       
+        <permission name="android.permission.PACKAGE_USAGE_STATS"/> 
+  </privapp-permissions>
+</permissions>
